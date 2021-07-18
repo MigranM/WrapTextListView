@@ -1,0 +1,15 @@
+C:\Users\migra\source\repos\wrapmodeList\wrapmodeList\bin\Debug\netcoreapp3.1\wrapmodeList.exe
+C:\Users\migra\source\repos\wrapmodeList\wrapmodeList\bin\Debug\netcoreapp3.1\wrapmodeList.deps.json
+C:\Users\migra\source\repos\wrapmodeList\wrapmodeList\bin\Debug\netcoreapp3.1\wrapmodeList.runtimeconfig.json
+C:\Users\migra\source\repos\wrapmodeList\wrapmodeList\bin\Debug\netcoreapp3.1\wrapmodeList.runtimeconfig.dev.json
+C:\Users\migra\source\repos\wrapmodeList\wrapmodeList\bin\Debug\netcoreapp3.1\wrapmodeList.dll
+C:\Users\migra\source\repos\wrapmodeList\wrapmodeList\bin\Debug\netcoreapp3.1\wrapmodeList.pdb
+C:\Users\migra\source\repos\wrapmodeList\wrapmodeList\obj\Debug\netcoreapp3.1\wrapmodeList.csproj.AssemblyReference.cache
+C:\Users\migra\source\repos\wrapmodeList\wrapmodeList\obj\Debug\netcoreapp3.1\wrapmodeList.Form1.resources
+C:\Users\migra\source\repos\wrapmodeList\wrapmodeList\obj\Debug\netcoreapp3.1\wrapmodeList.csproj.GenerateResource.cache
+C:\Users\migra\source\repos\wrapmodeList\wrapmodeList\obj\Debug\netcoreapp3.1\wrapmodeList.AssemblyInfoInputs.cache
+C:\Users\migra\source\repos\wrapmodeList\wrapmodeList\obj\Debug\netcoreapp3.1\wrapmodeList.AssemblyInfo.cs
+C:\Users\migra\source\repos\wrapmodeList\wrapmodeList\obj\Debug\netcoreapp3.1\wrapmodeList.csproj.CoreCompileInputs.cache
+C:\Users\migra\source\repos\wrapmodeList\wrapmodeList\obj\Debug\netcoreapp3.1\wrapmodeList.dll
+C:\Users\migra\source\repos\wrapmodeList\wrapmodeList\obj\Debug\netcoreapp3.1\wrapmodeList.pdb
+C:\Users\migra\source\repos\wrapmodeList\wrapmodeList\obj\Debug\netcoreapp3.1\wrapmodeList.genruntimeconfig.cache
